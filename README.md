@@ -43,7 +43,7 @@ of a member based on either a name or ID being entered.
 ####Delete member:####
 Allows the user to delete a member from the list by ID number.
 
-####Display all members:#### 
+####Display all members:####
 Displays all employees by membership type.
 
 ####Member Report:####
