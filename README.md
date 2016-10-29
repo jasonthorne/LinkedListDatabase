@@ -55,4 +55,4 @@ type:
 - Total income from these types of members per annum
 - How many of these members have been for more than 2 years.
 
-This report also wrties to MemberReport.txt for future reading.
+This report also writes to MemberReport.txt for future reading.
