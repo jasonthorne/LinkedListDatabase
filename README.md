@@ -22,31 +22,31 @@ The program provides the following menu:
 
 1. Add member
 2. Display member details
-3. Update member
+3. Update member details
 4. Delete member
 5. Display all member by membership type
 6. Member Report
 
 
-**Add member:** 
+####Add member:####
 This will add a new member at the correct position based on their ID number in the
 sorted linked list. 
 
-**Display member Details:** 
+####Display member Details:####
 Allows the user to input either a Member ID or a name and display the
 details for that member.
 
-**Update member Details:** 
+####Update member Details:####
 Allows the user to update the address, membership type or email address
 of a member based on either a name or ID being entered.
 
-**Delete member:** 
+####Delete member:####
 Allows the user to delete a member from the list by ID number.
 
-**Display all members:** 
+####Display all members:#### 
 Displays all employees by membership type.
 
-**Member Report:** 
+####Member Report:####
 Displays a member report which outputs the following information by membership
 type:
 
