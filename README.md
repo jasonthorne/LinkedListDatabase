@@ -1,7 +1,5 @@
 # Linked List Database
 
-## Jason Thorne
-
 A database implemented as a linked list. Allowing users to retreive, add, delete, update and manipulate member accounts.
 
 Each member stores the following details in a member structure:
