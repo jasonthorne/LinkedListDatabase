@@ -1,6 +1,6 @@
 # Linked List Database
 
-## Jason Thorne. G00317349.
+## Jason Thorne
 
 A database implemented as a linked list. Allowing users to retreive, add, delete, update and manipulate member accounts.
 
