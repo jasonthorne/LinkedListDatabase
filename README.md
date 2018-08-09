@@ -1,4 +1,4 @@
-# Advanced C project
+# Linked List Database
 
 ## Jason Thorne. G00317349.
 
