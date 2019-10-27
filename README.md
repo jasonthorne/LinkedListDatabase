@@ -1,6 +1,6 @@
 # Linked List Database
 
-A database written in C, implemented as a linked list. Allowing users to retreive, add, delete, update and manipulate member accounts.
+A database written in C, implemented as a linked list. Allowing users to create, retrieve, update and delete member accounts.
 
 Each member stores the following details in a member structure:
 
