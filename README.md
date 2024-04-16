@@ -30,11 +30,11 @@ The program provides the following menu:
 This will add a new member at the correct position based on their ID number in the
 sorted linked list. 
 
-#### Display member Details:
+#### Display member details:
 Allows the user to input either a Member ID or a name and display the
 details for that member.
 
-#### Update member Details:
+#### Update member details:
 Allows the user to update the address, membership type or email address
 of a member based on either a name or ID being entered.
 
@@ -44,7 +44,7 @@ Allows the user to delete a member from the list by ID number.
 #### Display all members:
 Displays all employees by membership type.
 
-#### Member Report:
+#### Member report:
 Displays a member report which outputs the following information by membership
 type:
 
@@ -54,3 +54,17 @@ type:
 - How many of these members have been for more than 2 years.
 
 This report also writes to MemberReport.txt for future reading.
+
+****
+#### How to launch:
+Run **Source.exe** within the **VSCodeCompile** folder.
+
+Then login with one of the following username and passwords:
+
+|  Username  | Password |         
+| ---------- | -------- | 
+|    jason   |  123456  |
+|    karen   |  abcdef  | 
+|   joanna   |  654321  |
+
+*login details also found in **login.txt**.*
