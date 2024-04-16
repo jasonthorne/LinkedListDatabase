@@ -8,7 +8,7 @@ Each member stores the following details in a member structure:
 * Member Name 
 * Member Address
 * Membership Type (Monthly or Yearly)
-* Membership rate (Monthly - €50 Yearly - €500)
+* Membership Rate (Monthly - €50 Yearly - €500)
 * Date of Joining (day/month/year)
 * Email Address 
 
@@ -44,7 +44,7 @@ Allows the user to delete a member from the list by ID number.
 #### Display all members:
 Displays all employees by membership type.
 
-#### Member report:
+#### Member Report:
 Displays a member report which outputs the following information by membership
 type:
 
